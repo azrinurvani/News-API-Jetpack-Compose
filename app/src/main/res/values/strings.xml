@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Api Jetpack Compose</string>
+    <string name="article">Article</string>
+    <string name="saved">Saved</string>
+    <string name="author_by">Author by: %s</string>
+    <string name="error">Error</string>
+    <string name="loading">Please wait...</string>
+</resources>
